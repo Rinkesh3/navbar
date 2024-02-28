@@ -1,0 +1,51 @@
+body{
+    margin: 0ch;
+    padding:0ch;
+}
+h1{
+    margin: 0;
+    
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    background-color: bisque;
+    color: black;
+    gap: 50px;
+    padding: 10px 30px;
+    margin-top: 2ch;
+}
+#home{
+    display:flex;
+    justify-content: left;
+    background-color: cornflowerblue;
+    color: darkblue;
+    gap: 30px;
+   padding: 10px 30px;
+   margin-top: 2ch;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgreen;
+    padding: 10px 40px;
+    margin-top: 2ch;
+  
+}
+ a{
+    text-decoration: none;
+    font-size: 20px;
+    display: flex;
+    gap: 30px;
+}
+#sec{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   
+}
+#third{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
